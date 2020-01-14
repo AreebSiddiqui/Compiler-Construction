@@ -1,0 +1,31 @@
+main ( ) {
+
+name = "CompilerConstruction"
+num = 10
+var = "a"
+
+get ( "Enter" ) ;
+
+untill ( abc = 4 ; xyz > 4 ; xyz++ ) {
+
+check ( var2 ) {
+show ( "Even" ) ;
+
+}
+
+
+check_ ( var2 ) {
+show ( "odd" );
+
+}
+
+uncheck {
+
+show ( "WrongInput" ) ;
+}
+
+
+}
+
+
+}
