@@ -1,0 +1,23 @@
+Load mypackage
+
+Func Main () {
+    Var numlist [] ;
+    Get ( numlist [] ) ;
+    Until( Var i ; i < 10 ; i ++ ) {
+
+        Check (num % 2 == 0 ){
+            Show ( "even") ;
+        }
+    
+        Check_ (num % 2 != 0){
+            Show ( "odd" ) ; 
+        }
+    
+        Uncheck {
+            Show ( "Wronginput" ) ;
+    
+        }
+
+    }
+
+}
