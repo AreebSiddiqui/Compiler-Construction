@@ -1,7 +1,7 @@
 main ( ) {
 
 name = "CompilerConstruction"
-num = 10
+num = 3
 var = "a"
 
 get ( "Enter" ) ;
